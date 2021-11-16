@@ -1,4 +1,4 @@
-# amd_market_basket
+# market_basket_IMDB
 
 Algorithms for Massive Datasets project a.y. 2020/2021\
 Data Science and Economics
